@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hiyaa, I am Shreyas Dongre here!! ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/46089370/226188927-615dbb8f-f6ef-422c-8e88-5c54093653fd.png)
+ ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/46089370/226188927-615dbb8f-f6ef-422c-8e88-5c54093653fd.png)
 
 
 
