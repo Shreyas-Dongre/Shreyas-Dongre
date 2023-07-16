@@ -22,8 +22,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Dongre)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
- ![Shreyas-Dongre snake SVG](https://github.com/Shreyas-Dongre/Shreyas-Dongre/blob/output/github-contribution-grid-snake.svg) 
-
